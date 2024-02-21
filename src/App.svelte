@@ -12,7 +12,7 @@
   
     <p>
       
-      % of different energy sources utilized for electricity production throughout the world between 1989 and 2021.
+      Percentage breakdown of different energy sources utilized for electricity production throughout the world between 1989 and 2021.
      Check out the design overview <strong><a href="design.html"> here</a></strong>.
     
     </p>
